@@ -1,0 +1,21 @@
+{
+  "name": "myntra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/register": "^7.25.9",
+    "@wdio/allure-reporter": "^9.2.14",
+    "@wdio/cucumber-framework": "^9.3.1",
+    "@wdio/local-runner": "^9.3.1",
+    "@wdio/spec-reporter": "^9.2.14"
+  }
+}

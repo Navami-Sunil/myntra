@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//span[@class=\"myntraweb-sprite pdp-whiteBag sprites-whiteBag pdp-flex pdp-center\"]"
+}

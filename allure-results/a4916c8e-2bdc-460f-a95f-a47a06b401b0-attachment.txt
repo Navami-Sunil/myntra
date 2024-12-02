@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//li[text()='Western Tops Women']\"}\n  (Session info: chrome=131.0.6778.86)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF703876CB5+28821]\n\t(No symbol) [0x00007FF7037E3840]\n\t(No symbol) [0x00007FF70368578A]\n\t(No symbol) [0x00007FF7036D91BE]\n\t(No symbol) [0x00007FF7036D94AC]\n\t(No symbol) [0x00007FF703722647]\n\t(No symbol) [0x00007FF7036FF33F]\n\t(No symbol) [0x00007FF70371F412]\n\t(No symbol) [0x00007FF7036FF0A3]\n\t(No symbol) [0x00007FF7036CA778]\n\t(No symbol) [0x00007FF7036CB8E1]\n\tGetHandleVerifier [0x00007FF703BAFCAD+3408013]\n\tGetHandleVerifier [0x00007FF703BC741F+3504127]\n\tGetHandleVerifier [0x00007FF703BBB5FD+3455453]\n\tGetHandleVerifier [0x00007FF70393BDBB+835995]\n\t(No symbol) [0x00007FF7037EEB5F]\n\t(No symbol) [0x00007FF7037EA814]\n\t(No symbol) [0x00007FF7037EA9AD]\n\t(No symbol) [0x00007FF7037DA199]\n\tBaseThreadInitThunk [0x00007FF809E37374+20]\n\tRtlUserThreadStart [0x00007FF80AB7CC91+33]\n"
+}
